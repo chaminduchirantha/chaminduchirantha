@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://chamindu-ochre.vercel.app/](https://chamindu-ochre.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://chamindu-ochre.vercel.app/](https://chamindu-ochre.vercel.app/)-use Html/css/js
+- 👨‍💻 All of my projects are available at [(https://my-portfolio-new-cyan.vercel.app/](https://my-portfolio-new-cyan.vercel.app/)-use the Bootstrap
 
 - ---
 
