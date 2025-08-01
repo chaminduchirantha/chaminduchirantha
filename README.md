@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chamindu-ochre.vercel.app/](https://chamindu-ochre.vercel.app/)-use Html/css/js
 - 👨‍💻 All of my projects are available at [(https://my-portfolio-new-cyan.vercel.app/](https://my-portfolio-new-cyan.vercel.app/)-use the Bootstrap
-- - 👨‍💻 All of my projects are available at [(https://my-portfolio-new-cyan.vercel.app/](https://myportfolio-new-seven.vercel.app)-use the tailwindcss and flowbite
+- 👨‍💻 All of my projects are available at [(https://my-portfolio-new-cyan.vercel.app/](https://myportfolio-new-seven.vercel.app)-use the tailwindcss and flowbite
 
 
 - ---
